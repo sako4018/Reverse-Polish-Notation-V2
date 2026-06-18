@@ -63,6 +63,7 @@ namespace Reverse_Polish_Notation
                         }
                     }
                 }
+                //The purpose of this commit is to see the diff in GIT
                 if (stack.Count == 1)
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
